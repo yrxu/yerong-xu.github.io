@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Astronomy & Astrophysics, Università degli Studi di Palermo & Istituto Nazionale di Astrofisica - IASF Istituto di Astrofisica Spaziale e Fisica Cosmica Palermo (INAF-IASF Palermo), 2024
+* M.S. in Physical Science Division, University of Chicago, 2020
+* B.S. in Physics (Honor), Fudan University, 2019
+* Exchange Student, University of Nottingham UK, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.08 - present: Postdoctoral Research
+  * Saint Mary's University
+  * Supervisor: Dr. Luigi Gallo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.11 - 2024.03: Research Assistant
+  * Istituto Nazionale di Astrofisica - IASF Istituto di Astrofisica Spaziale e Fisica Cosmica Palermo
+  * Supervisor: Dr. Ciro Pinto & Dr. Giancarlo Cusumano
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.01 - 2023.06: Erasmus+ visiting student
+  * Massachusetts Institute of Technology
+  * Supervisor: Dr. Erin Kara
+ 
+* 2022.09 - 2022.12: European Space Agency archival research visitor
+  * European Space Astronomy Centre
+  * Supervisor: Dr. Jacobo Ebrero
+ 
+* 2019.10 - 2020.06: Research Assistant
+  * University of Chicago
+  * Supervisor: Dr. Vikram V. Dwarkadas
+ 
+  * 2019.07 - 2019.08: Research Assistant
+  * California Institute of Technology
+  * Supervisor: Dr. Javier A. García  & Dr. Fiona A. Harrison 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Softwares: Xspec, SPEX, ftools, XSTAR, pyLag, PyXspec, Stingray
+* Programming: Python, C/C++, Tcl, Bash
+* Familiar with instruments: XMM-Newton, NuSTAR, Swift, Chandra
 
 Publications
 ======
@@ -47,18 +54,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Service
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Member of the Science Working Group (Galaxy Ecosystems) for the [HUBS](http://hubs.phys.tsinghua.edu.cn/en/) observatory, 2024 - present
+* Member of the Science Working Group 2.3 for the [ATHENA](https://www.the-athena-x-ray-observatory.eu/en) observatory, 2021 - present
+* Teaching Assistant, 'Astrophysics laboratory of thermal X-ray plasmas', Università degli Studi di Palermo, 2022
