@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Astronomy & Astrophysics, Università degli Studi di Palermo & Istituto Nazionale di Astrofisica - IASF Istituto di Astrofisica Spaziale e Fisica Cosmica Palermo (INAF-IASF Palermo), 2024
+* Ph.D in Astronomy & Astrophysics, Università degli Studi di Palermo & INAF - IASF Palermo, 2024
 * M.S. in Physical Science Division, University of Chicago, 2020
 * B.S. in Physics (Honor), Fudan University, 2019
 * Exchange Student, University of Nottingham UK, 2018
