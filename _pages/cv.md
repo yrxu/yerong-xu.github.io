@@ -38,7 +38,7 @@ Work experience
   * University of Chicago
   * Supervisor: Dr. Vikram V. Dwarkadas
  
-  * 2019.07 - 2019.08: Research Assistant
+* 2019.07 - 2019.08: Research Assistant
   * California Institute of Technology
   * Supervisor: Dr. Javier A. García  & Dr. Fiona A. Harrison 
   
