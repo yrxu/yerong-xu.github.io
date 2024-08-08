@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Contact"
+    url: /markdown/
+    
   # - title: "Talks"
   #   url: /talks/    
 
