@@ -53,7 +53,7 @@ Talks
 1. COSPAR 2024, Busan, Korea, 2024, Two contributed Talks
 1. Xiamen University, Xiamen, China, 2024, Invited Talk
 1. Nanjing University, Nanjing, China, 2024, Invited Talk
-1. Fudan University, Shanghai, China, 2024, Invited Talk
+1. Fudan University Cosimo Bambi's group seminar, Shanghai, China, 2024, Invited Talk
 1. IRAP GAHEC group seminar, Toulouse, France, 2024, Invited Talk  
 1. Young Astronomers on Galactic Nuclei 2023, Palermo, Italy, 2023, Contributed Talk  
 1. Chandra High Resolution X-ray Spectroscopy workshop, Cambridge, U.S., 2023, Contributed Talk
@@ -64,7 +64,7 @@ Talks
 1. XMM-Newton Workshop, Madrid, Spain, 2022, Contributed Talk
 1. 1st Mondragone Frontiers of Astronomy Series, Roma, Italy, 2022, Contributed Talk
 1. 50 years Astronomical X-ray spectroscopy in the Netherlands, Leiden, Netherlands, 2022, Contributed talk
-1. Fudan University, Shanghai, China, 2021, Invited talk
+1. Fudan University Cosimo Bambi's group seminar, Shanghai, China, 2021, Invited talk
 1. Disk Wind Conference, Durham, U.K., 2021, Contributed talk
   
   
